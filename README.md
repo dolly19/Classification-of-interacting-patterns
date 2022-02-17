@@ -34,4 +34,4 @@ python code.py
 
 **Accuracy score:** 0.66312 (on 70% dataset), 0.64313 (on 30% dataset)
 
-(It was a competition on Kaggle, 70% data is used for public leaderboard and 30% data for private leaderboard.) 
+(It was a competition on Kaggle under the course Machine Learning for Biomedical Applications @IIITD , 70% data is used for public leaderboard and 30% data for private leaderboard.) 
