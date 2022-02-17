@@ -8,16 +8,16 @@ Original file is located at
 """
 
 # Commented out IPython magic to ensure Python compatibility.
-from google.colab import drive
-drive.mount('/content/gdrive')
+# from google.colab import drive
+# drive.mount('/content/gdrive')
 # %cd '/content/gdrive/MyDrive/ML datasets'
 # %ls
 
-import warnings
-warnings.filterwarnings('ignore')
+# import warnings
+# warnings.filterwarnings('ignore')
 
 #install packages
-!pip install imbalanced-learn
+# !pip install imbalanced-learn
 
 #importing libraries
 import pandas as pd
